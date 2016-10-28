@@ -1,0 +1,4 @@
+07/08/2016;Hidroginastica|16.30|20
+12/03/2016;Hidroginastica|18.00|20
+09/11/2016;Natacao|20.30|20
+28/10/2016;Natacao|18.30|20
